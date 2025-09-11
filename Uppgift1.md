@@ -2,6 +2,12 @@
 
 # Att göra 
 
+<title>
+HEj
+</title>
+
+<!-->
+
 1. Skriv en titel på sidan i <title> taggen
 2. Skriv en lämplig rubrik, t.ex. hemsidans namn, i <header> med en <h1> tagg
 3. I <nav> ska du lägga minst 2 relevanta länkar, detta kan vara länkar till .html sidor som du implementerar senare.
@@ -15,3 +21,9 @@
 
 # Anteckningar
 Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+
+jag har startat från noll-
+
+skapat en rubrik med en background color- lagt två länkar till favorit säljaren
+lagt en bild med tillhörande <p> oavnför och <h6> under.
+I footer har jag lagt en contakt plats

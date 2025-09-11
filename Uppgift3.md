@@ -20,3 +20,5 @@ Några av nedanstående:
 
 # Anteckningar
 Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+
+Jag ändrade mer på stilen (ex- gjorde det kursivt) eller la shadow på den, ändrade på storlken av bakgrunden

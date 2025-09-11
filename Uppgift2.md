@@ -9,8 +9,8 @@ Lär dig om vilka “selectors” som finns i CSS, alltså hur man kommer åt el
 Vi kommer köra spelet https://flukeout.github.io/ genom exam.net
 
 # Uppgifter 
-1. Lägg till minst en <p> med relevant text
-2. Lägg till minst en <div>
+1. Lägg till minst en <p> med relevant text  klar 
+2. Lägg till minst en <div> 
 3. Lägg till en klass på ett element som kan ha en bakgrund (t.ex. en <div>)
 4. Lägg till en klass på ett element som har text i sig (t.ex. en <div>)
 5. Lägg till en ny <h1> som har en klass

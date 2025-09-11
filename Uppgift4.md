@@ -20,3 +20,5 @@ Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgif
 
 # Extra övning
 Gör exercise på: https://www.w3schools.com/css/css_boxmodel.asp
+
+klar
