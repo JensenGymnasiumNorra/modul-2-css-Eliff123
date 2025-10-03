@@ -18,6 +18,7 @@ Några av nedanstående:
 # Anteckningar
 Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
 
+användrade på storlekeb av mina bilder samt boardern
 # Extra övning
 Gör exercise på: https://www.w3schools.com/css/css_boxmodel.asp
 

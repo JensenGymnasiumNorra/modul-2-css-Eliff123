@@ -10,3 +10,5 @@ Använd dig av det du har lärt dig om flexbox för att anpassa din sida.
 
 # Anteckningar
 Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+
+Jag la till flex boxen för att kunna centrera och jämnt fördela mina bilder 
